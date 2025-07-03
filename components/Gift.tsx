@@ -5,7 +5,7 @@ import { GIFT_URI, NFT_CONTRACT_ADDRESS } from "../constants/constants";
 type GiftProps = {
     nft: NFT;
 };
-
+/
 export const Gift = ({ nft }: GiftProps) => {
     const address = useAddress();
     const currentDate = new Date();
