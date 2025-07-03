@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-
+/
 const Footer: React.FC = () => {
     const donateAddress = '0xCC6261C7F9C29A1F69e4021c83AA20a02a225a84';
     const [copySuccess, setCopySuccess] = useState(false);
