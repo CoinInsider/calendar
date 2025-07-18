@@ -1,6 +1,6 @@
 ## Getting Started
 
-Create a project using this example:1
+Create a project using this example:12
 
 ```bash
 npx thirdweb create --template next-typescript-starter
